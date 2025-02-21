@@ -1,6 +1,6 @@
   <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Hanxin!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Hanxinnn&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="Hanxinnn"> </p>
-<p><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Keep+Coding+Keep+Growing.;You+Are+The+One+Who+Sets+Your+Own+Limits.&amp;center=true&amp;width=500&amp;height=50"></a></p>
+<p><img src="https://readme-typing-svg.herokuapp.com?lines=Keep+Coding+Keep+Growing.;You+Are+The+One+Who+Sets+Your+Own+Limits.&amp;center=true&amp;width=500&amp;height=50"></p>
 <p><img align="right" src="https://raw.githubusercontent.com/Hanxinnn/Hanx/main/icons/animation_500_kxa883sd.gif" alt="Hanxinnn"></p>
 <h2 id="-connect-with-me"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me</h2>
 <p align="left">
